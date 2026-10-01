@@ -1,3 +1,7 @@
+mod sense;
+
+
 fn main() {
-    println!("Hello, world!");
+    println!("SERALab");
 }
+
