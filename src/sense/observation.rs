@@ -31,6 +31,7 @@ pub enum Attribute {
     Hostname(String),
     Service(String),
     Vendor(String),
+    Interface(String),
 }
 
 #[derive(Debug)]
